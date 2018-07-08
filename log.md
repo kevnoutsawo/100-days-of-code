@@ -26,3 +26,12 @@
 **Thoughts:** Today has been a bit harder. I had my weekly workout yesterday and didn't get time to sleep more than 5 hours. I'm so bit sleep deprived that I look like a zombie. I also bought a rubik's cube. I think it is a good way to sharpen my logic skils while relaxing. It may help prepare me for logic oriented challenges.
 
 **Link to work:** https://twitter.com/kevnoutsawo/status/1015363851267854337
+
+### Day 4: July 7th, 2018 ###
+#############################
+
+**Today's Progress**: Completed some color theory challenges on FCC Front End Certification. I better understood the nuances between the different ways of specifying color in CSS and when to use which, especially hsl. I still don't clearly know if there is an actual difference between rgb and hex format, I'll get back to it tomorrow.
+
+**Thoughts:** Today has been way  much harder. I slept enough but faced an electricity shortage when trying to code. I felt so determined. When My laptop finally shutdown, I proceeded to code on my android phone, even if it's harder to type. Thank God I bought a powerbank yesterday, It sustained my phone long enough for me to reach my daily goal.
+
+**Link to work:** https://twitter.com/kevnoutsawo/status/1015749879296090117
