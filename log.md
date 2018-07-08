@@ -35,3 +35,14 @@
 **Thoughts:** Today has been way  much harder. I slept enough but faced an electricity shortage when trying to code. I felt so determined. When My laptop finally shutdown, I proceeded to code on my android phone, even if it's harder to type. Thank God I bought a powerbank yesterday, It sustained my phone long enough for me to reach my daily goal.
 
 **Link to work:** https://twitter.com/kevnoutsawo/status/1015749879296090117
+
+**Link to work:** https://twitter.com/kevnoutsawo/status/1015363851267854337
+
+### Day 5: July 8th, 2018 ###
+#############################
+
+**Today's Progress**: Completed Applied Visual Design section on FCC Front End Certification.
+
+**Thoughts:** I had to face many interruptions. Unfortunately, few people around me understand that you can stay at home and actually do something serious.
+
+**Link to work:** https://twitter.com/kevnoutsawo/status/1016105941014638592
