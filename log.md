@@ -46,3 +46,12 @@
 **Thoughts:** I had to face many interruptions. Unfortunately, few people around me understand that you can stay at home and actually do something serious.
 
 **Link to work:** https://twitter.com/kevnoutsawo/status/1016105941014638592
+
+### Day 6: July 9th, 2018 ###
+#############################
+
+**Today's Progress**: Completed 1/3 of Applied Accessibility challenges on FCC. I have learnt how important it is to keep everybody in mind while designing the user experience and interface of a web site or app. I think before shipping a project, I should close my eyes and experience it the way a blind person would do. Shutdown all sound to experience it like someone deaf and also unplug my mouse to know how well it'll feel with no pointing device.
+
+**Thoughts:** I had to code in an Internet cafe during my lunch. I am really tired. My current full time job is very energy and time consuming. I am exhausted, I should find a way to rest more.
+
+**Link to work:** https://twitter.com/kevnoutsawo/status/1016462704234717184
