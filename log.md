@@ -55,3 +55,12 @@
 **Thoughts:** I had to code in an Internet cafe during my lunch. I am really tired. My current full time job is very energy and time consuming. I am exhausted, I should find a way to rest more.
 
 **Link to work:** https://twitter.com/kevnoutsawo/status/1016462704234717184
+
+### Day 7: July 10th, 2018 ###
+#############################
+
+**Today's Progress**: Completed 2/3 of Applied Accessibility challenges on FCC. I have learnt more about assistive devices, how they are used and how widespread they are, mainly among users with disabilities. I also started coding a simple color picker on my spare time at work. I really enjoyed the fact that I am starting to make sense of JavaScript. I found it easy to quickly express the idea into working JS code. I dodged JS for so long trying to do almost everything in the back end, but JS feels more accessible to me now.
+
+**Thoughts:** I had to code in an Internet cafe during my lunch just like yesterday. I also find out why I was so tired. It turns out that I have the flu. I'll be at the hospital tomorrow before working if I can. I hope I'll find the opportunity to code. 
+
+**Link to work:** https://twitter.com/kevnoutsawo/status/1016841880917741568
