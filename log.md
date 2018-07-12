@@ -64,3 +64,14 @@
 **Thoughts:** I had to code in an Internet cafe during my lunch just like yesterday. I also find out why I was so tired. It turns out that I have the flu. I'll be at the hospital tomorrow before working if I can. I hope I'll find the opportunity to code. 
 
 **Link to work:** https://twitter.com/kevnoutsawo/status/1016841880917741568
+
+Day 8: July 11th, 2018
+#############################
+
+Today's Progress: Completed all of Applied Accessibility challenges on FCC. I've learnt a lot in this section, I didn't pay attention to accessibility in the past.
+
+Thoughts: I took a day off work today to go to the hospital. I have some stomach issues. Finally they found out that I have a too high rate of Helicobacer Pilory (a microbe that can harm the stomach). I should eat less spicy food. This flu makes me so tired, still, I was able to set aside enough time to code.
+
+Link to work: https://twitter.com/kevnoutsawo/status/1017197109706141696
+
+
