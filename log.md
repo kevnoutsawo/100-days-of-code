@@ -82,3 +82,12 @@ Today's Progress: Completed all of the Responsive Web Design Principles challeng
 Thoughts: I feel better, the flu is going. With not enough time available, it is hard for me to eat well. I should fix this asap.
 
 Link to work: https://twitter.com/kevnoutsawo/status/1017560316115390465
+
+### Day 10: July 13th, 2018 ###
+##############################
+
+Today's Progress: Worked on designing a website. I was contacted by a friend who is a back end guy to help him design a frontend for his next commercial project. The deadline is really tight (Should ship by tomorrow). I'm not done yet and I think I'll use a template to speed this up. 
+
+Thoughts: I still have a lot to learn about CSS and how to put it all together. 
+
+Link to work: https://twitter.com/kevnoutsawo/status/1017909669602394112
