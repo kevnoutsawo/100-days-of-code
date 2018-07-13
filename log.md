@@ -57,7 +57,7 @@
 **Link to work:** https://twitter.com/kevnoutsawo/status/1016462704234717184
 
 ### Day 7: July 10th, 2018 ###
-#############################
+##############################
 
 **Today's Progress**: Completed 2/3 of Applied Accessibility challenges on FCC. I have learnt more about assistive devices, how they are used and how widespread they are, mainly among users with disabilities. I also started coding a simple color picker on my spare time at work. I really enjoyed the fact that I am starting to make sense of JavaScript. I found it easy to quickly express the idea into working JS code. I dodged JS for so long trying to do almost everything in the back end, but JS feels more accessible to me now.
 
@@ -65,8 +65,8 @@
 
 **Link to work:** https://twitter.com/kevnoutsawo/status/1016841880917741568
 
-Day 8: July 11th, 2018
-#############################
+### Day 8: July 11th, 2018 ###
+##############################
 
 Today's Progress: Completed all of Applied Accessibility challenges on FCC. I've learnt a lot in this section, I didn't pay attention to accessibility in the past.
 
@@ -74,4 +74,11 @@ Thoughts: I took a day off work today to go to the hospital. I have some stomach
 
 Link to work: https://twitter.com/kevnoutsawo/status/1017197109706141696
 
+### Day 9: July 12th, 2018 ###
+##############################
 
+Today's Progress: Completed all of the Responsive Web Design Principles challenges on FCC. I also worked on my color picker. It handled hex values as of yesterday. Today I worked on building support for HSL/HSLA and RGB/RGBA values also. I think I'll be done soon. Up to now I have worked on an office computer with restricted access to internet. I keep the code in my head and reproduce it when I come back home. I'll upload it ASAP.
+
+Thoughts: I feel better, the flu is going. With not enough time available, it is hard for me to eat well. I should fix this asap.
+
+Link to work: https://twitter.com/kevnoutsawo/status/1017560316115390465
