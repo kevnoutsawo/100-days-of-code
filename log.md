@@ -91,3 +91,12 @@ Today's Progress: Worked on designing a website. I was contacted by a friend who
 Thoughts: I still have a lot to learn about CSS and how to put it all together. 
 
 Link to work: https://twitter.com/kevnoutsawo/status/1017909669602394112
+
+### Day 11: July 14th, 2018 ###
+##############################
+
+Today's Progress: Continued working on a commercial website. I am almost done with the design, still have some content to incorporate. I have a hard time making the an embedded youtube video to work. I am trying to dodge their iframe because I want the video to show up only when the user clicks on the button.
+
+Thoughts: I learnt a lot reading the templates code to understand it before tweaking it. The only details I didn't undertands were the popover video and the flex rules. That's the next thing I'll learn on FCC.
+
+Link to work: https://kevnoutsawo.github.io/
