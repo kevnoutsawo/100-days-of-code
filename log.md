@@ -100,3 +100,12 @@ Today's Progress: Continued working on a commercial website. I am almost done wi
 Thoughts: I learnt a lot reading the templates code to understand it before tweaking it. The only details I didn't undertands were the popover video and the flex rules. That's the next thing I'll learn on FCC.
 
 Link to work: https://kevnoutsawo.github.io/
+
+### Day 12: July 14th, 2018 ###
+##############################
+
+Today's Progress: Continued working on a commercial website and also a color picker app. I have a hard time usging the range inputs.
+
+Thoughts: I was offline the whole day because I forgot my phoe at home. I started typing my solutions on codepen, it's still very simple though.
+
+Link to work: https://kevnoutsawo.github.io/
