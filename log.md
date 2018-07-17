@@ -101,7 +101,7 @@ Thoughts: I learnt a lot reading the templates code to understand it before twea
 
 Link to work: https://kevnoutsawo.github.io/
 
-### Day 12: July 14th, 2018 ###
+### Day 12: July 15th, 2018 ###
 ##############################
 
 Today's Progress: Continued working on a commercial website and also a color picker app. I have a hard time usging the range inputs.
@@ -109,3 +109,12 @@ Today's Progress: Continued working on a commercial website and also a color pic
 Thoughts: I was offline the whole day because I forgot my phoe at home. I started typing my solutions on codepen, it's still very simple though.
 
 Link to work: https://kevnoutsawo.github.io/
+
+Day 13: July 16th, 2018
+##############################
+
+Today's Progress: Worked on my color picker. The project is more challenging than what I thought it would be. the JS object model is kind of weird, especially regarding CSS.
+
+Thoughts: I wanted to use vanilla JS for this but it's really hard. I'll give it another try tomorrow.
+
+Link to work: https://codepen.io/kevnoutsawo/project/full/XgPkRQ/
