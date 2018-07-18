@@ -110,11 +110,21 @@ Thoughts: I was offline the whole day because I forgot my phoe at home. I starte
 
 Link to work: https://kevnoutsawo.github.io/
 
-Day 13: July 16th, 2018
-##############################
+### Day 13: July 16th, 2018 ###
+###############################
 
 Today's Progress: Worked on my color picker. The project is more challenging than what I thought it would be. the JS object model is kind of weird, especially regarding CSS.
 
 Thoughts: I wanted to use vanilla JS for this but it's really hard. I'll give it another try tomorrow.
 
 Link to work: https://codepen.io/kevnoutsawo/project/full/XgPkRQ/
+
+### Day 14: July 18th, 2018 ###
+###############################
+
+Today's Progress: Worked on a CMS frontend and integrating more content on my current commercial project.
+For some reason, my customer want to get rid of wordpress completely and design an in house cms. Also, I made my first professionnal invoice for a customer. 
+
+Thoughts: I didn't code yesterday, I was in bad shape and had really violent headaches so I decided to take more rest. I realized that I still have a lot to learn about law, accounting and billing issues.
+
+Link to work: https://kevnoutsawo.github.io/dncms/
