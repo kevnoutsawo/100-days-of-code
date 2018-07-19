@@ -128,3 +128,12 @@ For some reason, my customer want to get rid of wordpress completely and design 
 Thoughts: I didn't code yesterday, I was in bad shape and had really violent headaches so I decided to take more rest. I realized that I still have a lot to learn about law, accounting and billing issues.
 
 Link to work: https://kevnoutsawo.github.io/dncms/
+
+### Day 15: July 19th, 2018 ###
+###############################
+
+Today's Progress: Worked on integrating more content on my current commercial project. This part is really a pain as the former programmer had some really bad coding habits. However, the customer is satisfied so far and is even talking about granting me other contracts. I've also learnt new things about bootstrap and font awesome.
+
+Thoughts: I was in a really bad mood today, but still, I could code a few hours. I feel motivated and see more and more doors opening themselves before me. What will be the outcome at day 100 ? I'm eager to discover it.
+
+Link to work: https://kevnoutsawo.github.io
