@@ -137,3 +137,12 @@ Today's Progress: Worked on integrating more content on my current commercial pr
 Thoughts: I was in a really bad mood today, but still, I could code a few hours. I feel motivated and see more and more doors opening themselves before me. What will be the outcome at day 100 ? I'm eager to discover it.
 
 Link to work: https://kevnoutsawo.github.io
+
+### Day 16: July 20th, 2018 ###
+###############################
+
+Today's Progress: Worked on my color picker and learnt a bit more about regular expresions. I tried to integrate rgb and hsl support oon the color picker. hsl values are still strange for now. Need to work wore on it and better understand color theory.
+
+Thoughts: I worked intensively on my current commercial projects the past 2 days because there is a lot of content to integrate and the CMS module is not operational yet. Seems like I did too much because I had serious headaches today.
+
+Link to work: https://codepen.io/kevnoutsawo/project/full/XgPkRQ/
