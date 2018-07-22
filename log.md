@@ -146,3 +146,12 @@ Today's Progress: Worked on my color picker and learnt a bit more about regular 
 Thoughts: I worked intensively on my current commercial projects the past 2 days because there is a lot of content to integrate and the CMS module is not operational yet. Seems like I did too much because I had serious headaches today.
 
 Link to work: https://codepen.io/kevnoutsawo/project/full/XgPkRQ/
+
+### Day 17: July 21th, 2018 ###
+###############################
+
+Today's Progress: I finished the CSS Flexbox challenges on FCC. What an amazing tool under one's belt. Also read a few pages of CSS in depth.
+
+Thoughts: I was really tired today, but as giving up is not an option, here I am.
+
+Link to work: https://twitter.com/kevnoutsawo/status/1020840525774061569
