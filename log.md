@@ -155,3 +155,12 @@ Today's Progress: I finished the CSS Flexbox challenges on FCC. What an amazing 
 Thoughts: I was really tired today, but as giving up is not an option, here I am.
 
 Link to work: https://twitter.com/kevnoutsawo/status/1020840525774061569
+
+### Day 18: July 22th, 2018 ###
+###############################
+
+Today's Progress: I finished the CSS Grid challenges on FCC. I really appreciated this section. Many of my frontend questions found their answer in the grid display system. I doesn't fit all uses but is undoubtably powerful.
+
+Thoughts: I was contacted by a local fintech startup to team up with them as CTO. It's my first full time developer job offer since the beginning of the challenge. I think it's not a smart move as from now though. Didn't give an answer yet.
+
+Link to work: https://twitter.com/kevnoutsawo/status/1021188960624816129
