@@ -164,3 +164,12 @@ Today's Progress: I finished the CSS Grid challenges on FCC. I really appreciate
 Thoughts: I was contacted by a local fintech startup to team up with them as CTO. It's my first full time developer job offer since the beginning of the challenge. I think it's not a smart move as from now though. Didn't give an answer yet.
 
 Link to work: https://twitter.com/kevnoutsawo/status/1021188960624816129
+
+### Day 19: July 23th, 2018 ###
+###############################
+
+Today's Progress: I almost finished the Basic JavaScript challenges on FCC, except the Record Collection challenge which is a bit tricky, I'll handle it ASAP. I'll start working on the responsive web design projects tomorrow.
+
+Thoughts: I was more than exhausted today, so I took a day off work for a medical checkup. Turns out I need to pay more attention to what I eat and take as much rest as possible.
+
+Link to work: https://twitter.com/kevnoutsawo/status/1021548346081796103
