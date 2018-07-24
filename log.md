@@ -173,3 +173,12 @@ Today's Progress: I almost finished the Basic JavaScript challenges on FCC, exce
 Thoughts: I was more than exhausted today, so I took a day off work for a medical checkup. Turns out I need to pay more attention to what I eat and take as much rest as possible.
 
 Link to work: https://twitter.com/kevnoutsawo/status/1021548346081796103
+
+### Day 20: July 24th, 2018 ###
+###############################
+
+Today's Progress: I worked on integrating more content on my current commercial project. Still have a dozens article to insert and style by hand using bootstrap and at tiimes bare css. I am preparing my layout for the RWD challenges. Maybe I shouldn't overthink it and just jump in.
+
+Thoughts: I took enough rest today and spend some time helping less avanced people around the internet and in my local FCC group.
+
+Link to work: https://twitter.com/kevnoutsawo/status/1021894332167671808
