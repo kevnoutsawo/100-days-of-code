@@ -174,11 +174,11 @@ Thoughts: I was more than exhausted today, so I took a day off work for a medica
 
 Link to work: https://twitter.com/kevnoutsawo/status/1021548346081796103
 
-### Day 20: July 24th, 2018 ###
+### Day 21: July 25th, 2018 ###
 ###############################
 
-Today's Progress: I worked on integrating more content on my current commercial project. Still have a dozens article to insert and style by hand using bootstrap and at tiimes bare css. I am preparing my layout for the RWD challenges. Maybe I shouldn't overthink it and just jump in.
+Today's Progress: I worked on understanding and integrating diagonal design to a project. I could do a single section, still need to understand how to combine it with flexbox and grids to achieve more advanced designs.
 
-Thoughts: I took enough rest today and spend some time helping less avanced people around the internet and in my local FCC group.
+Thoughts: Today it rained on me, the weather was really bad. I had a church meeting after work so I went home late. I took a lot of time to help people online. It is almost 3 am here and I have to be at office by 7 am. Still, I secured some time to code.
 
-Link to work: https://twitter.com/kevnoutsawo/status/1021894332167671808
+Link to work: https://codepen.io/kevnoutsawo/pen/ZjJpPr
