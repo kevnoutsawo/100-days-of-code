@@ -174,11 +174,11 @@ Thoughts: I was more than exhausted today, so I took a day off work for a medica
 
 Link to work: https://twitter.com/kevnoutsawo/status/1021548346081796103
 
-### Day 21: July 25th, 2018 ###
+### Day 21: July 26th, 2018 ###
 ###############################
 
-Today's Progress: I worked on understanding and integrating diagonal design to a project. I could do a single section, still need to understand how to combine it with flexbox and grids to achieve more advanced designs.
+Today's Progress: I worked more on understanding and I built a non rectangular page banner. I also started workng on a diagonal image slices. I'm starting to get it, though it still requires some work.
 
-Thoughts: Today it rained on me, the weather was really bad. I had a church meeting after work so I went home late. I took a lot of time to help people online. It is almost 3 am here and I have to be at office by 7 am. Still, I secured some time to code.
+Thoughts: I've been sleepy all the day, I have to sleep more.
 
-Link to work: https://codepen.io/kevnoutsawo/pen/ZjJpPr
+Link to work: https://codepen.io/kevnoutsawo/pen/WKZwVJ
