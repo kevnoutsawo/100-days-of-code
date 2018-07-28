@@ -174,11 +174,29 @@ Thoughts: I was more than exhausted today, so I took a day off work for a medica
 
 Link to work: https://twitter.com/kevnoutsawo/status/1021548346081796103
 
-### Day 21: July 26th, 2018 ###
+### Day 20: July 24th, 2018 ###
 ###############################
 
-Today's Progress: I worked more on understanding and I built a non rectangular page banner. I also started workng on a diagonal image slices. I'm starting to get it, though it still requires some work.
+Today's Progress: I worked on integrating more content on my current commercial project. Still have a dozens article to insert and style by hand using bootstrap and at tiimes bare css.
+
+Thoughts: I am preparing my layout for the RWD challenges. Maybe I shouldn't overthink it and just jump in. I took enough rest today and spend some time helping people around the internet and in my city's FCC group. 20% completed. Yay.
+
+Link to work: https://twitter.com/kevnoutsawo/status/1021895006095908866
+
+### Day 21: July 25th, 2018 ###
+###############################
+
+Today's Progress: I worked more on understanding and I built a non rectangular page banner. I also started working on a diagonal image slices. I'm starting to get it, though it still requires some work.
 
 Thoughts: I've been sleepy all the day, I have to sleep more.
 
 Link to work: https://codepen.io/kevnoutsawo/pen/WKZwVJ
+
+### Day 23: July 27th, 2018 ###
+###############################
+
+Today's Progress: I spent some time reverse engineering the kryptis.com website to better understand diagonal design and other professional frontend concepts. I tried to implement Jquery localScroll and ScrollTo to an ancient pen of mine but it isn't working yet. Despite trying, I couldn't fix it just yet. Tomorrow I'll try it locally to ensure it's not a CodePen integration issue. 
+
+Thoughts: My sleeping hours are so messed up now because of my work schedule which is too irregular. My schedule varies so much that it feels like a permanent jet lag. Hope I'll get out of this schedule ASAP.
+
+Link to work: https://codepen.io/kevnoutsawo/full/GWGEdz/
