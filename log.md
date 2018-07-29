@@ -200,3 +200,12 @@ Today's Progress: I spent some time reverse engineering the kryptis.com website 
 Thoughts: My sleeping hours are so messed up now because of my work schedule which is too irregular. My schedule varies so much that it feels like a permanent jet lag. Hope I'll get out of this schedule ASAP.
 
 Link to work: https://codepen.io/kevnoutsawo/full/GWGEdz/
+
+### Day 24: July 28th, 2018 ###
+###############################
+
+Today's Progress: I worked on the first chapter of CSS in Depth book. I worked on the concept of cascade and learned how browsers determine which rule is applied to which element. I now have to move on by furthering my understanding of specificity, and inheritance.
+
+Thoughts: After my hour of code yesterday, I was opening Github, twitter, facebook, linkedIn and whatsapp to publish my daily log, but unbeknownst to me, I fell asleep. It felt like an emergency shutdown. I had to work very early this week and I happened to sleep less than 4 hours for 2 days.
+
+Link to work: https://twitter.com/kevnoutsawo/status/1023592653278072832
