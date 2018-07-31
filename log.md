@@ -209,3 +209,12 @@ Today's Progress: I worked on the first chapter of CSS in Depth book. I worked o
 Thoughts: After my hour of code yesterday, I was opening Github, twitter, facebook, linkedIn and whatsapp to publish my daily log, but unbeknownst to me, I fell asleep. It felt like an emergency shutdown. I had to work very early this week and I happened to sleep less than 4 hours for 2 days.
 
 Link to work: https://twitter.com/kevnoutsawo/status/1023592653278072832
+
+### Day 25: July 30th, 2018 ###
+###############################
+
+Today's Progress: I worked on the tribute page which is the first project out of five projects that need to be completed in order to receive the Responsive Web Design Certification. Moving on soon. I was really minimalistic on this one because I've understood that in order to be productive, I need to leave perfectionism. My work will get better with time and practice.
+
+Thoughts: I skipped one day to recover the huge lack of sleep from this week. I plan to complete all the 5 projects this week.
+
+Link to work: https://codepen.io/kevnoutsawo/pen/PBEVyo
