@@ -218,3 +218,12 @@ Today's Progress: I worked on the tribute page which is the first project out of
 Thoughts: I skipped one day to recover the huge lack of sleep from this week. I plan to complete all the 5 projects this week.
 
 Link to work: https://codepen.io/kevnoutsawo/pen/PBEVyo
+
+### Day 26: July 31th, 2018 ###
+###############################
+
+Today's Progress: I worked on the second RWD project, the survey form. I completed the markup and passed all the tests. I won't submit it yet because I want to work on the styling. However, I'll set myself tomorrow as a deadline. I need to learn to choose productivity over perfectionism.
+
+Thoughts: I was surprised to see how much time I needed just to pass all the tests. I also need to find a more energic diet. I've heard about the Keto diet but don't know If it's a good fit for me.
+
+Link to work: https://codepen.io/kevnoutsawo/full/LBQMBb/
