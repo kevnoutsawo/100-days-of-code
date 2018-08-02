@@ -227,3 +227,12 @@ Today's Progress: I worked on the second RWD project, the survey form. I complet
 Thoughts: I was surprised to see how much time I needed just to pass all the tests. I also need to find a more energic diet. I've heard about the Keto diet but don't know If it's a good fit for me.
 
 Link to work: https://codepen.io/kevnoutsawo/full/LBQMBb/
+
+### Day 27: August 1st, 2018 ###
+###############################
+
+Today's Progress: I worked on the survey form project. I applied style and submitted it. I wanted to improve it , but my battery will soon be down. I'll improve it later. 2/5 RWD projects completed.
+
+Thoughts: These projects are really a great approach to learn a lot and get practical.
+
+Link to work: https://codepen.io/kevnoutsawo/full/LBQMBb/
