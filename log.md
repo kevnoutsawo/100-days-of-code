@@ -236,3 +236,12 @@ Today's Progress: I worked on the survey form project. I applied style and submi
 Thoughts: These projects are really a great approach to learn a lot and get practical.
 
 Link to work: https://codepen.io/kevnoutsawo/full/LBQMBb/
+
+### Day 28: August 2nd, 2018 ###
+###############################
+
+Today's Progress: I worked on the product landing page. Spent some time lookinh what is done aound the Internet. I plan to finish it tomorrow.
+
+Thoughts: Got I broke my eyeglases yesterday accident so I made them fixed. Need more sleep again.
+
+Link to work: https://twitter.com/kevnoutsawo/status/1025205113437257728
