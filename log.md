@@ -245,3 +245,12 @@ Today's Progress: I worked on the product landing page. Spent some time lookinh 
 Thoughts: Got I broke my eyeglases yesterday accident so I made them fixed. Need more sleep again.
 
 Link to work: https://twitter.com/kevnoutsawo/status/1025205113437257728
+
+### Day 29: August 3rd, 2018 ###
+###############################
+
+Today's Progress: I finished chapter 1 of the CSS in Depth book. I learned about the principles of cascade, specifity and inheritance which are core concepts of CSS. I now clearly understand which style applies to which element and why.
+
+Thoughts: Things are going quite well but I find it really hard to focus and code after a hard work day. I end up spendind up to four ours to achieve the daily goals I set for myself. I'll try to start coding in the morning from now on. That itself is a challenge as I am already used to sleeping late.
+
+Link to work: https://twitter.com/kevnoutsawo/status/1025621749491265536
