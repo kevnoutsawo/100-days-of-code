@@ -263,3 +263,12 @@ Today's Progress: I worked on the product landing page. I added some markup but 
 Thoughts: I is very time consuming to create all the content on my own.
 
 Link to work: https://twitter.com/kevnoutsawo/status/1025996449660784641
+
+### Day 30: August 4th, 2018 ###
+###############################
+
+Today's Progress: I worked on the product landing page. It now passes 14/16 tests. I now need to work on the markup.
+
+Thoughts: RAS
+
+Link to work: https://codepen.io/kevnoutsawo/full/NBMeQM/
