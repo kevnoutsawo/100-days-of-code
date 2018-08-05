@@ -254,3 +254,12 @@ Today's Progress: I finished chapter 1 of the CSS in Depth book. I learned about
 Thoughts: Things are going quite well but I find it really hard to focus and code after a hard work day. I end up spendind up to four ours to achieve the daily goals I set for myself. I'll try to start coding in the morning from now on. That itself is a challenge as I am already used to sleeping late.
 
 Link to work: https://twitter.com/kevnoutsawo/status/1025621749491265536
+
+### Day 30: August 4th, 2018 ###
+###############################
+
+Today's Progress: I worked on the product landing page. I added some markup but spent most of the time trying to gather the necessary placeholder content.
+
+Thoughts: I is very time consuming to create all the content on my own.
+
+Link to work: https://twitter.com/kevnoutsawo/status/1025996449660784641
