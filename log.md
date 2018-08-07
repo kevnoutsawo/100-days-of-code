@@ -264,7 +264,7 @@ Thoughts: I is very time consuming to create all the content on my own.
 
 Link to work: https://twitter.com/kevnoutsawo/status/1025996449660784641
 
-### Day 30: August 4th, 2018 ###
+### Day 30: August 5th, 2018 ###
 ###############################
 
 Today's Progress: I worked on the product landing page. It now passes 14/16 tests. I now need to work on the markup.
@@ -272,3 +272,12 @@ Today's Progress: I worked on the product landing page. It now passes 14/16 test
 Thoughts: RAS
 
 Link to work: https://codepen.io/kevnoutsawo/full/NBMeQM/
+
+### Day 31: August 6th, 2018 ###
+###############################
+
+Today's Progress: I started the second chapter of CSS in depth which talks about Working with relative units. px, em or rem ? At times we are not sure which to use. I'm glad I'll soon pierce that mystery.
+
+Thoughts: RAS
+
+Link to work: https://twitter.com/kevnoutsawo/status/1026628536738762752
