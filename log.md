@@ -283,11 +283,11 @@ Thoughts: RAS
 Link to work: https://twitter.com/kevnoutsawo/status/1026628536738762752
 
 
-### Day 32: August 7th, 2018 ###
+### Day 33: August 8th, 2018 ###
 ###############################
 
-Today's Progress: I worked on CSS in depth. I retain that the era of pixel perfect design is gone. We can no more predict a lot of details, we have to code responsibly and apply responvise design.
+Today's Progress: I worked on the product landing page, I am going slowly because I want to understand as much as I can from what I am doing now.
 
-Thoughts: RAS
+Thoughts: Today I got my second full time developer job offer since I began the challenge. A local business hiring for canadian companies. They want C# developers and offer a great compensation plan. I stopped using C# after my BSc. in Software Engineering. They told me that if I could recycle myself within 1 year in C#, I could secure on of these positions. I was planning to learn Ruby, but I will seriously consider this offer as moving abroad can be good for my career, especially in Canada. 
 
-Link to work: https://twitter.com/kevnoutsawo/status/1026978697469935619
+Link to work: https://twitter.com/kevnoutsawo/status/1027333203940581382
