@@ -281,3 +281,13 @@ Today's Progress: I started the second chapter of CSS in depth which talks about
 Thoughts: RAS
 
 Link to work: https://twitter.com/kevnoutsawo/status/1026628536738762752
+
+
+### Day 32: August 7th, 2018 ###
+###############################
+
+Today's Progress: I worked on CSS in depth. I retain that the era of pixel perfect design is gone. We can no more predict a lot of details, we have to code responsibly and apply responvise design.
+
+Thoughts: RAS
+
+Link to work: https://twitter.com/kevnoutsawo/status/1026978697469935619
