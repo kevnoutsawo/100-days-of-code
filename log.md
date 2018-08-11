@@ -291,3 +291,12 @@ Today's Progress: I worked on the product landing page, I am almost done with it
 Thoughts: RAS
 
 Link to work: https://codepen.io/kevnoutsawo/full/NBMeQM/
+
+### Day 35: August 10th, 2018 ###
+###############################
+
+Today's Progress: Installed the tools I'll need to do @dotnet and learnt some command lines.                                             
+
+Thoughts: I used @VisualStudio in the past but it is now two heavy for my current computer and mobile data bundle. I plan to use C# for back end.
+
+Link to work: https://twitter.com/kevnoutsawo/status/1028081832833769473
