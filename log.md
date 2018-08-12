@@ -310,7 +310,7 @@ Thoughts: R1D36 I was contacted by an acquaintance of mine from another company.
 
 Link to work: https://www.microsoft.com/net/learn/in-browser-tutorial/7
 
-### Day 37: August 10th, 2018 ###
+### Day 37: August 12th, 2018 ###
 ###############################
 
 Today's Progress: Completed all the tests for the landing page challenge and submitted it. I am still unsatisfied by the design but my focus now is understanding how things work under the hood. I'll probably come back to it later.
