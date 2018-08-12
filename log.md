@@ -301,7 +301,7 @@ Thoughts: I used @VisualStudio in the past but it is now two heavy for my curren
 
 Link to work: https://twitter.com/kevnoutsawo/status/1028081832833769473
 
-### Day 35: August 10th, 2018 ###
+### Day 36: August 11th, 2018 ###
 ###############################
 
 Today's Progress: Completed @microsoft @dotnet in browser basics tutorial. I am still focused more on front end for now.I still don't know which #csharp course or certification I should take in order to gain world class recognition in the field.                                            
@@ -310,3 +310,11 @@ Thoughts: R1D36 I was contacted by an acquaintance of mine from another company.
 
 Link to work: https://www.microsoft.com/net/learn/in-browser-tutorial/7
 
+### Day 37: August 10th, 2018 ###
+###############################
+
+Today's Progress: Completed all the tests for the landing page challenge and submitted it. I am still unsatisfied by the design but my focus now is understanding how things work under the hood. I'll probably come back to it later.
+
+Thoughts: I wonder if it is ok to accept projects and outsource them. What if the other guy doesn't bring decent quality and that I have to do the work on my own. I am thinking about it.
+
+Link to work: https://codepen.io/kevnoutsawo/full/NBMeQM/
