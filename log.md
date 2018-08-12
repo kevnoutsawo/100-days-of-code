@@ -300,3 +300,13 @@ Today's Progress: Installed the tools I'll need to do @dotnet and learnt some co
 Thoughts: I used @VisualStudio in the past but it is now two heavy for my current computer and mobile data bundle. I plan to use C# for back end.
 
 Link to work: https://twitter.com/kevnoutsawo/status/1028081832833769473
+
+### Day 35: August 10th, 2018 ###
+###############################
+
+Today's Progress: Completed @microsoft @dotnet in browser basics tutorial. I am still focused more on front end for now.I still don't know which #csharp course or certification I should take in order to gain world class recognition in the field.                                            
+
+Thoughts: R1D36 I was contacted by an acquaintance of mine from another company. He found a company near us which stills uses @msexcel for almost everything and have issues with data. They need a web application to solve this. I accepted the project. I am so blessed with this challenge. Someone contacted me also for an #ecommerce project. I am getting more and more offers. If it can keep increasing at this rate, I'll soon be able to launch my own agency. I am thankful to @ka11away for setting all this up.
+
+Link to work: https://www.microsoft.com/net/learn/in-browser-tutorial/7
+
