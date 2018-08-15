@@ -318,3 +318,21 @@ Today's Progress: Completed all the tests for the landing page challenge and sub
 Thoughts: I wonder if it is ok to accept projects and outsource them. What if the other guy doesn't bring decent quality and that I have to do the work on my own. I am thinking about it.
 
 Link to work: https://codepen.io/kevnoutsawo/full/NBMeQM/
+
+### Day 38: August 13th, 2018 ###
+###############################
+
+Today's Progress: Started a MOOC on the C programming language on FUN MOOC. I do it for the certification because C was the language I learned programming in.
+
+Thoughts: I delayed posting because I had no Internet access.
+
+Link to work: https://twitter.com/kevnoutsawo/status/1029533304054317058
+
+### Day 39: August 14th, 2018 ###
+###############################
+
+Today's Progress: Learned a lot about working with relative units in CSS, when they come in handy, some quirks I may come accross and how to solve them. I also learned why I should stop thinking in pixels and embrace more responsive units.
+
+Thoughts: RAS.
+
+Link to work: https://twitter.com/kevnoutsawo/status/1029534704402350082
