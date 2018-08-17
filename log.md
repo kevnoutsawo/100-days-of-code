@@ -336,3 +336,12 @@ Today's Progress: Learned a lot about working with relative units in CSS, when t
 Thoughts: RAS.
 
 Link to work: https://twitter.com/kevnoutsawo/status/1029534704402350082
+
+### Day 40: August 16th, 2018 ###
+###############################
+
+Today's Progress: I had my first meeting with my next client. Another one is scheduled for tomorrow. I am in the process of understanding their business logic first then I'll come up with a concrete proposition. All the theory I learned while taking my BSc. in Software engineering is now making sense. Also completed Chapter 2 of CSS in Depth, relative units, unitless numbers and #CSS variables are now under my belt
+
+Thoughts: As I was offline for a few days I logged my progress afterwards and there are inconsistencies with dates in this log.
+
+Link to work: https://twitter.com/kevnoutsawo/status/1030383477949190144
