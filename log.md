@@ -229,7 +229,7 @@ Thoughts: I was surprised to see how much time I needed just to pass all the tes
 Link to work: https://codepen.io/kevnoutsawo/full/LBQMBb/
 
 ### Day 27: August 1st, 2018 ###
-###############################
+################################
 
 Today's Progress: I worked on the survey form project. I applied style and submitted it. I wanted to improve it , but my battery will soon be down. I'll improve it later. 2/5 RWD projects completed.
 
@@ -238,7 +238,7 @@ Thoughts: These projects are really a great approach to learn a lot and get prac
 Link to work: https://codepen.io/kevnoutsawo/full/LBQMBb/
 
 ### Day 28: August 2nd, 2018 ###
-###############################
+################################
 
 Today's Progress: I worked on the product landing page. Spent some time lookinh what is done aound the Internet. I plan to finish it tomorrow.
 
@@ -247,7 +247,7 @@ Thoughts: Got I broke my eyeglases yesterday accident so I made them fixed. Need
 Link to work: https://twitter.com/kevnoutsawo/status/1025205113437257728
 
 ### Day 29: August 3rd, 2018 ###
-###############################
+################################
 
 Today's Progress: I finished chapter 1 of the CSS in Depth book. I learned about the principles of cascade, specifity and inheritance which are core concepts of CSS. I now clearly understand which style applies to which element and why.
 
@@ -256,7 +256,7 @@ Thoughts: Things are going quite well but I find it really hard to focus and cod
 Link to work: https://twitter.com/kevnoutsawo/status/1025621749491265536
 
 ### Day 30: August 4th, 2018 ###
-###############################
+################################
 
 Today's Progress: I worked on the product landing page. I added some markup but spent most of the time trying to gather the necessary placeholder content.
 
@@ -265,7 +265,7 @@ Thoughts: I is very time consuming to create all the content on my own.
 Link to work: https://twitter.com/kevnoutsawo/status/1025996449660784641
 
 ### Day 30: August 5th, 2018 ###
-###############################
+################################
 
 Today's Progress: I worked on the product landing page. It now passes 14/16 tests. I now need to work on the markup.
 
@@ -274,7 +274,7 @@ Thoughts: RAS
 Link to work: https://codepen.io/kevnoutsawo/full/NBMeQM/
 
 ### Day 31: August 6th, 2018 ###
-###############################
+################################
 
 Today's Progress: I started the second chapter of CSS in depth which talks about Working with relative units. px, em or rem ? At times we are not sure which to use. I'm glad I'll soon pierce that mystery.
 
@@ -284,7 +284,7 @@ Link to work: https://twitter.com/kevnoutsawo/status/1026628536738762752
 
 
 ### Day 34: August 9th, 2018 ###
-###############################
+################################
 
 Today's Progress: I worked on the product landing page, I am almost done with it. Some styling is still needed.                                                                                                                                                                 
 
@@ -293,7 +293,7 @@ Thoughts: RAS
 Link to work: https://codepen.io/kevnoutsawo/full/NBMeQM/
 
 ### Day 35: August 10th, 2018 ###
-###############################
+#################################
 
 Today's Progress: Installed the tools I'll need to do @dotnet and learnt some command lines.                                             
 
@@ -302,7 +302,7 @@ Thoughts: I used @VisualStudio in the past but it is now two heavy for my curren
 Link to work: https://twitter.com/kevnoutsawo/status/1028081832833769473
 
 ### Day 36: August 11th, 2018 ###
-###############################
+#################################
 
 Today's Progress: Completed @microsoft @dotnet in browser basics tutorial. I am still focused more on front end for now.I still don't know which #csharp course or certification I should take in order to gain world class recognition in the field.                                            
 
@@ -311,7 +311,7 @@ Thoughts: R1D36 I was contacted by an acquaintance of mine from another company.
 Link to work: https://www.microsoft.com/net/learn/in-browser-tutorial/7
 
 ### Day 37: August 12th, 2018 ###
-###############################
+#################################
 
 Today's Progress: Completed all the tests for the landing page challenge and submitted it. I am still unsatisfied by the design but my focus now is understanding how things work under the hood. I'll probably come back to it later.
 
@@ -320,7 +320,7 @@ Thoughts: I wonder if it is ok to accept projects and outsource them. What if th
 Link to work: https://codepen.io/kevnoutsawo/full/NBMeQM/
 
 ### Day 38: August 13th, 2018 ###
-###############################
+#################################
 
 Today's Progress: Started a MOOC on the C programming language on FUN MOOC. I do it for the certification because C was the language I learned programming in.
 
@@ -329,7 +329,7 @@ Thoughts: I delayed posting because I had no Internet access.
 Link to work: https://twitter.com/kevnoutsawo/status/1029533304054317058
 
 ### Day 39: August 14th, 2018 ###
-###############################
+#################################
 
 Today's Progress: Learned a lot about working with relative units in CSS, when they come in handy, some quirks I may come accross and how to solve them. I also learned why I should stop thinking in pixels and embrace more responsive units.
 
@@ -338,10 +338,19 @@ Thoughts: RAS.
 Link to work: https://twitter.com/kevnoutsawo/status/1029534704402350082
 
 ### Day 40: August 16th, 2018 ###
-###############################
+#################################
 
 Today's Progress: I had my first meeting with my next client. Another one is scheduled for tomorrow. I am in the process of understanding their business logic first then I'll come up with a concrete proposition. All the theory I learned while taking my BSc. in Software engineering is now making sense. Also completed Chapter 2 of CSS in Depth, relative units, unitless numbers and #CSS variables are now under my belt
 
 Thoughts: As I was offline for a few days I logged my progress afterwards and there are inconsistencies with dates in this log.
 
 Link to work: https://twitter.com/kevnoutsawo/status/1030383477949190144
+
+### Day 41: August 17th, 2018 ###
+#################################
+
+Today's Progress: I had my second meeting mith the customer. It turns out that their organization is bigger than what I thought. I think I'll have to cancel any other side project for now. I will probably need to hire a developer or 2 to help me meet the deadlines. If I can satisfy their needs, they can greatly increase my professional network by introducing me to their business partners which are potential customers to me. Also worked on C programming MOOC.
+
+Thoughts: RAS
+
+Link to work: https://twitter.com/kevnoutsawo/status/1030637022799716354
