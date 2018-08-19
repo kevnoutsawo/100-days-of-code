@@ -354,3 +354,21 @@ Today's Progress: I had my second meeting mith the customer. It turns out that t
 Thoughts: RAS
 
 Link to work: https://twitter.com/kevnoutsawo/status/1030637022799716354
+
+### Day 42: August 18th, 2018 ###
+#################################
+
+Today's Progress: Worked on MOOC C and started planning how I'll undertake my current project.
+
+Thoughts: I think I'll stop the MOOC on C I was taking. This project is pretty big, actually the biggest software project I ever conducted. I really want it to be a success.
+
+Link to work: https://twitter.com/kevnoutsawo/status/1031327069853155330
+
+### Day 42: August 18th, 2018 ###
+#################################
+
+Today's Progress: Didn't actually code today. I spent quality time at church and alone. Concerning the project, I am thinking about all the crucial design choices I have to make now. Vanilla PHP? framework? Hosting plans , ui design, database design etc... Following the rule : "Think twice, code once!"
+
+Thoughts: RAS
+
+Link to work: https://twitter.com/kevnoutsawo/status/1031329269325156353
